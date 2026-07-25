@@ -1,16 +1,103 @@
-## Hi there 👋
+<!-- ═══════════════════════════════════════════ HEADER ══════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,40:8B00FF,100:00FFFF&height=220&section=header&text=NIRANJAN%20KUMAR&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=SME%20%7C%20Delegate%20Architect%20%7C%20Healthcare%20Tech%20%40%20Elsevier&descAlignY=58&descColor=CCCCCC&animation=twinkling"/>
 
-<!--
-**nyadav-elsevier/nyadav-elsevier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ══════════════════════════════════════ ANIMATED ROLES ════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=680&lines=⚡+Building+SimChart+NG+%26+SCMO+%40+Elsevier;🏗️+Delegate+Architect+|+Subject+Matter+Expert;🤖+Exploring+Gen+AI+·+Python+·+Pydantic;💡+Bridging+Legacy+Systems+with+Modern+Intelligence" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<!-- ════════════════════════════════════════ BADGES ══════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Company-Elsevier-FF6B35?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Role-SME%20%7C%20Delegate%20Architect-8B00FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Domain-Healthcare%20Tech-00FFFF?style=for-the-badge&logoColor=black"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- ═══════════════════════════════════════ ABOUT ME ════════════════════════════════════════════ -->
+<table align="center" border="0" width="90%">
+<tr>
+<td>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  > cat about_me.txt                                                  ║
+║                                                                      ║
+║  🔭  Working on   →  SimChart NG & SCMO @ Elsevier                   ║
+║  🏗️  Role         →  SME (SimChart) · Delegate Architect (SCMO)      ║
+║  🌱  Learning     →  Python · Pydantic · Generative AI / LLMs        ║
+║  ⚡  Superpower   →  Architecting systems that scale & endure        ║
+║  💬  Ask me about →  .NET · Spring Boot · Azure · System Design      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════ TECH STACK ══════════════════════════════════════════ -->
+<h2 align="center">⚡ TECH ARSENAL</h2>
+
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,java,js,ts,python,html,css&theme=dark&perline=7"/>
+</p>
+
+<h4 align="center">Frameworks & Runtimes</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,react,nodejs&theme=dark&perline=7"/>
+</p>
+
+<h4 align="center">Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=7"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white&labelColor=0D0D0D" height="48"/>
+</p>
+
+<h4 align="center">Cloud & DevOps</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,git&theme=dark&perline=7"/>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════ LEARNING ════════════════════════════════════════════ -->
+<h2 align="center">🧠 LEARNING RADAR</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gen%20AI-FF00FF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-00FFFF?style=for-the-badge&logo=anthropic&logoColor=black"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-8B00FF?style=for-the-badge&logoColor=white"/>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════ STATS ═══════════════════════════════════════════════ -->
+<h2 align="center">📊 STATS DASHBOARD</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyadav-elsevier&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&ring_color=8B00FF"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyadav-elsevier&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF00FF&text_color=FFFFFF&langs_count=8&count_private=true&include_all_commits=true"/>
+</p>
+
+<!-- ═══════════════════════════════════════ STREAK ══════════════════════════════════════════════ -->
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=nyadav-elsevier&theme=radical&hide_border=true&background=0D0D0D&stroke=FF00FF&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FF00FF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+</p>
+
+<!-- ════════════════════════════════════ ACTIVITY GRAPH ══════════════════════════════════════════ -->
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nyadav-elsevier&bg_color=0D0D0D&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&area_color=8B00FF&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════ FOOTER ══════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,60:8B00FF,100:FF00FF&height=130&section=footer"/>
