@@ -89,7 +89,7 @@
 
 <!-- ═══════════════════════════════════════ STREAK ══════════════════════════════════════════════ -->
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=nyadav-elsevier&theme=radical&hide_border=true&background=0D0D0D&stroke=FF00FF&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FF00FF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+  <img width="70%" src="./profile/streak.svg" alt="GitHub Streak"/>
 </p>
 
 <!-- ═══════════════════════════════ CONTRIBUTION SNAKE ════════════════════════════════════════════ -->
