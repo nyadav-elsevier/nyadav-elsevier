@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════ HEADER ══════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,40:8B00FF,100:00FFFF&height=220&section=header&text=NIRANJAN%20KUMAR&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=SME%20%7C%20Delegate%20Architect%20%7C%20Healthcare%20Tech%20%40%20Elsevier&descAlignY=58&descColor=CCCCCC&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,40:8B00FF,100:00FFFF&height=220&section=header&text=NIRANJAN%20KUMAR&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20III%20%40%20Elsevier&descAlignY=58&descColor=CCCCCC&animation=twinkling"/>
 
 <!-- ══════════════════════════════════════ ANIMATED ROLES ════════════════════════════════════════ -->
 <p align="center">
